@@ -1,0 +1,24 @@
+[
+    {
+      "title": "Programador React Jr. con ganas de aprender",
+      "description": "Empresa busca talento joven para desarrollo frontend. Conocimientos básicos de React y JS. Trabajo remoto.",
+      "categorySlug": "empleos",
+      "subcategorySlug": "tecnologia",
+      "location": "Remoto (Perú)",
+      "contactName": "RRHH Tech Co.",
+      "contactPhone": "51987654321", 
+      "images": ["https://via.placeholder.com/300"]
+    },
+    {
+      "title": "Alquilo Departamento 2 habitaciones Miraflores",
+      "description": "Lindo departamento cerca al parque Kennedy. Ideal para pareja o familia pequeña. Amoblado.",
+      "categorySlug": "inmuebles",
+      "subcategorySlug": "alquiler-departamentos",
+      "location": "Miraflores, Lima",
+      "contactName": "Juan Pérez",
+      "contactPhone": "51912345678",
+      "price": 2500,
+      "currency": "PEN",
+      "images": ["https://via.placeholder.com/300", "https://via.placeholder.com/300"]
+    }
+  ]
